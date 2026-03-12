@@ -1,0 +1,89 @@
+Q: What is the company refund policy?
+A: Customers can request a refund within 30 days of purchase. The product must be unused and in its original condition. Refunds are processed within 5–7 business days.
+
+Q: What payment methods are supported?
+A: We accept credit cards, debit cards, PayPal, and bank transfers. All payments are securely processed through our payment gateway.
+
+Q: How can I reset my password?
+A: Click the "Forgot Password" link on the login page. Enter your registered email address to receive a password reset link.
+
+Q: How do I contact customer support?
+A: You can contact customer support via email, live chat, or phone. Our support team is available Monday to Friday from 9 AM to 6 PM.
+
+Q: How long does shipping take?
+A: Standard shipping usually takes 5–7 business days. Express shipping takes 2–3 business days depending on your location.
+
+Q: Can I track my order?
+A: Yes, once your order is shipped you will receive a tracking number. You can use this number to track the shipment on our website.
+
+Q: What should I do if my order arrives damaged?
+A: If your order arrives damaged, contact customer support immediately. Provide photos of the damaged product so we can arrange a replacement or refund.
+
+Q: Can I change my order after placing it?
+A: Orders can be modified within 2 hours of placing them. After that, the order enters processing and cannot be changed.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to most countries worldwide. International shipping times may vary depending on customs processing.
+
+Q: How can I cancel my order?
+A: You can cancel your order before it has been shipped. Visit your order history and click the cancel button.
+
+Q: Is my personal information secure?
+A: Yes, we use industry-standard encryption to protect your data. Your personal information is never shared with third parties without consent.
+
+Q: How do I create an account?
+A: Click the sign-up button on the homepage. Fill in your name, email address, and password to create an account.
+
+Q: What should I do if I forget my username?
+A: You can log in using your registered email address instead of a username. If you still cannot log in, contact support.
+
+Q: How do I update my account information?
+A: Go to your profile settings after logging in. There you can update your name, email address, and password.
+
+Q: Are there any discounts available?
+A: We offer seasonal promotions and discount codes. Subscribe to our newsletter to receive updates on special offers.
+
+Q: How do I apply a discount code?
+A: During checkout, enter the discount code in the promo code field. The discount will be applied automatically.
+
+Q: Can I return a product after purchase?
+A: Yes, products can be returned within 30 days if they are unused and in their original packaging.
+
+Q: How do I check my order history?
+A: Log in to your account and go to the "Orders" section. You will see a list of all your past purchases.
+
+Q: What happens if my payment fails?
+A: If your payment fails, you will receive a notification. You can retry the payment using another payment method.
+
+Q: Can I save multiple shipping addresses?
+A: Yes, you can add multiple shipping addresses in your account settings. This helps you check out faster.
+
+Q: Do you provide product warranties?
+A: Some products include a manufacturer warranty. Warranty details are listed on the product page.
+
+Q: How do I subscribe to the newsletter?
+A: Enter your email address in the newsletter subscription box on the homepage. You will receive updates and promotions.
+
+Q: Can I unsubscribe from marketing emails?
+A: Yes, you can unsubscribe anytime by clicking the unsubscribe link in any marketing email.
+
+Q: What browsers are supported?
+A: Our website supports the latest versions of Chrome, Firefox, Safari, and Edge.
+
+Q: How do I report a bug on the website?
+A: You can report bugs by contacting support or submitting a ticket through the help center.
+
+Q: Do you offer live chat support?
+A: Yes, live chat support is available during business hours. Click the chat icon on the bottom-right of the website.
+
+Q: How can I update my payment method?
+A: Go to your account settings and select payment methods. There you can add or update your payment details.
+
+Q: What happens if I enter the wrong shipping address?
+A: Contact customer support immediately if you entered the wrong address. If the order has not shipped yet, we can update it.
+
+Q: Are digital products refundable?
+A: Digital products are generally non-refundable once downloaded. Exceptions may apply in special circumstances.
+
+Q: How do I delete my account?
+A: To delete your account, contact customer support. Our team will assist you with the account deletion process.
